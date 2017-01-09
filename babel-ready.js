@@ -2,9 +2,6 @@ const spawnSync = require('child_process').spawnSync;
 const writeFileSync = require('fs').writeFileSync;
 const jsonfile = require('jsonfile')
 
-let newFolder = spawnSync('mkdir', [ 'output' ]);
-let cd = spawnSync('cd', [ 'output' ]);
-
 let installs = `install --save-dev babel-cli babel-preset-es2015`;
 installs = installs.split(' ');
 let createFiles = `package.json index.js .babelrc .env .gitignore README.md`;
