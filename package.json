@@ -1,6 +1,6 @@
 {
   "name": "babel-ready",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "babel-ready.js",
   "scripts": {
