@@ -1,0 +1,25 @@
+{
+  "name": "babel-ready",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel-node index.js"
+  },
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CraigglesO/Babel-Ready.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0",
+    "jsonfile": "^2.4.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0"
+  }
+}
