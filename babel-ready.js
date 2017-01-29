@@ -23,6 +23,7 @@ const pkgJSON = {
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "babel-node index.js",
+    "build": "...",
     "git-commit": "git add -A . && git commit -a -m 'gh-pages update'",
     "git-push": "git push origin gh-pages --force && git checkout master",
     "deploy": "npm run build && npm run git-commit && npm run git-push"

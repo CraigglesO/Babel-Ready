@@ -1,7 +1,7 @@
 {
   "name": "babel-ready",
   "version": "1.0.6",
-  "description": "",
+  "description": "Quickly get a babel project up and running (BOILER-PLATE)",
   "main": "babel-ready.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,7 +10,7 @@
   "bin": {
     "babel-ready": "./bin/babel-ready.js"
   },
-  "author": "",
+  "author": "Craig OConnor",
   "repository": {
     "type": "git",
     "url": "https://github.com/CraigglesO/Babel-Ready.git"
