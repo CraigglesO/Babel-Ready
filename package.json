@@ -1,6 +1,6 @@
 {
   "name": "babel-ready",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Quickly get a babel project up and running (BOILER-PLATE)",
   "main": "babel-ready.js",
   "scripts": {
