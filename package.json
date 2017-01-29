@@ -1,10 +1,10 @@
 {
   "name": "babel-ready",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Quickly get a babel project up and running (BOILER-PLATE)",
   "main": "babel-ready.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node ./test/test.js | tap-spec",
     "start": "babel-node index.js"
   },
   "bin": {
@@ -21,6 +21,7 @@
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
-    "babel-preset-es2015": "^6.18.0"
+    "babel-preset-es2015": "^6.18.0",
+    "tap-spec": "^4.1.1"
   }
 }
