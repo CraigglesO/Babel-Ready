@@ -14,12 +14,12 @@ Dependency free method to get you up and going with babel with one command.
 ## Install
 Installing globally will make this a more useful template engine.
 
-\`\`\`
+\`\`\` javascript
 npm install -g babel-ready
 \`\`\`
 
 ## Usage
-\`\`\`
+\`\`\` javascript
 
 babel-ready
 
