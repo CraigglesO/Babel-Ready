@@ -1,5 +1,7 @@
 # Babel-Ready [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![Code Climate](https://codeclimate.com/github/CraigglesO/Babel-Ready/badges/gpa.svg)](https://codeclimate.com/github/CraigglesO/babel-ready) [![downloads][downloads-image]][downloads-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/CraigglesO/Babel-Ready.svg)](https://greenkeeper.io/)
+
   [travis-image]: https://travis-ci.org/CraigglesO/Babel-Ready.svg?branch=master
   [travis-url]: https://travis-ci.org/CraigglesO/Babel-Ready
   [npm-image]: https://img.shields.io/npm/v/babel-ready.svg
